@@ -1,0 +1,62 @@
+<component name="libraryTable">
+  <library name="Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/NefAnimacion_V2.1_jdk18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jfreechart-1.0.19-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/swtgraphics2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-digester-2.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/orsonpdf-1.6-eval.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jcalendar-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/slf4j-log4j12-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/mssql-jdbc-7.4.1.jre12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/bridj-0.6.2-windows-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jasperreports-javaflow-6.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/javase-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/itext-pdfa-5.5.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/net.tascalate.javaflow.api-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-digester-2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/iReport-5.6.0-plugin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jfreechart-1.0.19-experimental.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/itext-pdfa-5.5.13.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jcommander-1.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/orsoncharts-1.4-eval-nofx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/core-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/webcam-capture-0.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-collections4-4.4-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jai-imageio-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-beanutils-1.9.4-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-beanutils-1.9.4-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jfreesvg-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/KControls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-collections4-4.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/slf4j-api-1.8.0-beta4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-collections4-4.4-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-beanutils-1.9.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jasperreports-metadata-6.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-collections4-4.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/jasperreports-javaflow-6.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-beanutils-1.9.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/itext-pdfa-5.5.13.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/com/Library/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
